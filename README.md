@@ -1,7 +1,7 @@
 # Identifying possible target market for an advertisement
 
 ## Title
-Univariate and Bivariate Analysis using R 
+Exploratory Data Analysis and Supervised Learning with R 
 
 ## Author
 Terry Migwi
